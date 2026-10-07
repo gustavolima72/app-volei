@@ -5,7 +5,7 @@ import { VitePWA } from 'vite-plugin-pwa'
 // Nome do repositório no GitHub — isso define o caminho onde o app vai
 // morar no GitHub Pages: https://SEU_USUARIO.github.io/app-volei/
 // Se um dia o repositório mudar de nome, essa é a ÚNICA linha que precisa mudar.
-const NOME_DO_REPOSITORIO = 'aplicativo-volei'
+const NOME_DO_REPOSITORIO = 'app-volei'
 
 export default defineConfig({
   base: `/${NOME_DO_REPOSITORIO}/`,
